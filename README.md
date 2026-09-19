@@ -1,11 +1,30 @@
 # ETBquickReadOnly
-Replaces deleted file for file with read only, stupid way to do it but am too tired to deal with hotkeys today
+Replaces deleted file for file with read only for 2 seconds.
 
+HOTKEYS:
+
+F7 : Restore Snapshot
+
+CTRL + F7 : Snapshot Current Save
 
 Usage:
 
-Launch the program.	It will create a "ReplacementFiles" folder inside your ETB save folder.
+- Launch The program
 
-Place the savefile you wish to do runs with BOTH inside the new folder AND your ETB save folder.
+- Load into your desired SaveFile.
 
-Any deleted files that have the same name as files inside the replacement folder will be replaced IMMEDIATELY upon deletion with a copy from the "Replacement Files" folder and set to read only for 5 seconds after you delete them from your ETB save folder, allowing you to reset like pre-update.
+- Press CTRL + F7 to create a Snapshot of the current SaveFile.
+
+- Press F7 and then restart level to load snapshot and apply read only to it for 2 seconds.
+
+
+
+
+
+
+
+
+TO DO:
+- Add Custom Hotkey  Support
+- Make Snapshots persist across sessions
+(Should not take long, just too lazy to do that rn.)
