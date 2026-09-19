@@ -27,4 +27,4 @@ Usage:
 TO DO:
 - Add Custom Hotkey  Support
 - Make Snapshots persist across sessions
-(Should not take long, just too lazy to do that rn.)
+- (Should not take long, just too lazy to do that rn.)
